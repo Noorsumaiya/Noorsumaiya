@@ -28,7 +28,7 @@ Built and shipped a production-ready social networking platform in 5 days as Pro
 ### 🌐 Antrapranoor — Entrepreneurship Resource Platform
 **Independent Project | Jul 2024**
 
-Designed and launched a web platform to connect new entrepreneurs with niche tools, resources, and peer networking. Built end to end from idea to live product.
+Designed and launched a web platform to connect new entrepreneurs with niche tools, resources, and peer networking. Building end to end from idea to live product.
 
 [![Live](https://img.shields.io/badge/Live-Antrapranoor-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://sites.google.com/view/antrapranoor/home)
 
