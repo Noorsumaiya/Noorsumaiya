@@ -21,7 +21,7 @@ I build things, manage projects, and solve problems — sometimes all at once.
 Built and shipped a production-ready social networking platform in 5 days as Project Manager and Technical Lead. Frontend built with HTML, CSS, and JavaScript; deployed via GitHub and Vercel.
 
 [![Repo](https://img.shields.io/badge/GitHub-TG3--CODE/Propel--Hackathon-181717?style=flat&logo=github)](https://github.com/TG3-CODE/Propel-Hackathon)
-[![Live](https://propelhackathon2025.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-DeConnect-black?style=flat&logo=vercel)](https://propelhackathon2025.vercel.app/)
 
 ---
 
