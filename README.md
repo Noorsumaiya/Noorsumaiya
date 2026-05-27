@@ -28,7 +28,7 @@ Built and shipped a production-ready social networking platform in 5 days as Pro
 ### 🌐 Antrapranoor — Entrepreneurship Resource Platform
 **Independent Project | Jul 2024**
 
-Designed and launched a web platform to connect new entrepreneurs with niche tools, resources, and peer networking. Building end to end from idea to live product.
+Designed and launched a web platform to connect new entrepreneurs with niche tools, resources, and peer networking. Built end to end from idea to live product.
 
 [![Live](https://img.shields.io/badge/Live-Antrapranoor-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://sites.google.com/view/antrapranoor/home)
 
@@ -41,6 +41,15 @@ Year-long R&D project using OpenCV and Python to detect heart rate in real time 
 
 [![Published Paper](https://img.shields.io/badge/Published-JETIR2204298-blue?style=flat&logo=academia&logoColor=white)](https://www.jetir.org/papers/JETIR2204298.pdf)
 [![Repo](https://img.shields.io/badge/GitHub-webcam--pulse--detector-181717?style=flat&logo=github)](https://github.com/Noorsumaiya/Restaurant-Inventory-Management-System)
+
+---
+
+### 💄 MUA Marketplace India — Makeup Artist Booking Platform
+**Independent Project**
+
+A mobile-first marketplace connecting customers with verified Makeup Artists across India. Features artist discovery and filtering by budget, city, and event type; secure booking with deposit and escrow payments; MUA profiles with portfolios and packages; and a dispute resolution system. Built with React, TypeScript, Tailwind CSS, and GSAP animations.
+
+[![Live](https://img.shields.io/badge/Live-MUA_Marketplace_India-E07B6A?style=flat&logo=google-chrome&logoColor=white)](https://z54xztsui7yyw.ok.kimi.link/#featured)
 
 ---
 
