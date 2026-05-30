@@ -2,8 +2,8 @@
 
 IT Project Manager and Digital Support professional with 3+ years of experience across technical support, AV infrastructure, and Agile project delivery. MS in Information Systems from DePaul University (3.98 GPA). Currently based in Mitchell, SD.
 
-I build things, manage projects, and solve problems — sometimes all at once.
-
+I build things, manage projects, and solve problems. Sometimes all at once!
+Check out my potfolio noorsumaiya.github.io
 ---
 
 ## 🔗 Connect with Me
